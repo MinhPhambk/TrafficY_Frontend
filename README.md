@@ -1,6 +1,6 @@
 # 🚗 TrafficY - Hệ thống giám sát giao thông thông minh
 
-> **TrafficY** là hệ thống giám sát giao thông hiện đại, giúp nhận diện phương tiện vi phạm, cung cấp thông tin chi tiết và hỗ trợ ChatBot tư vấn nhanh về Luật giao thông Việt Nam.
+> **TrafficY** là hệ thống giám sát giao thông hiện đại, giúp nhận diện phương tiện vi phạm, cung cấp thông tin chi tiết.
 
 ---
 
